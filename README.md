@@ -3,7 +3,7 @@ Dates: January 8, 9, 10, 13, 14, 15
 
 # Topics and Readings
 
-Introduction to ARGs: Griffiths and Tavare (Will be posted soon)
+Introduction to ARGs: Hein, Schierup and Wiuf (2005) Gene Genealogies: Variation and Evolution. Chapter 5. Oxford University Press.
 
 ARGWeaver: Rasmussen, Hubisz, Gronau and Siepal (2013) Genome-wide Inference of Ancestral Recombination Graphs. PLOS Genetics
 
