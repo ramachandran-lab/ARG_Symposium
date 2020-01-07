@@ -4,7 +4,7 @@
 * Download tar ball (C++) version (python version does not include ARGWeaver-D features)
   * http://mdrasmus.github.io/argweaver/
 * "tar -zxvf mdrasmus-argweaver-fee3d32.tar.gz"
-* cd into folder
+* navigate into mdrasmus-argweaver-fee3d32
 * "make"
 * "make install prefix=/users/your_user_name/path_to_install/"
 * "./arg-sim" to test installation (will return help menu)
