@@ -1,7 +1,10 @@
 # ARG_Symposium
 ### Draft Schedule Below. Please check for updates!
+#### Sessions will run from 1-4 each day with food and snacks provided
+#### Please complete readings in advance of each session
+#### Please bring a laptop with OSCAR access if possible
 
-## Topics and Readings
+## Schedule and Readings
 ### Wednesday, Jan 8th: Introduction to ARGs
 #### Presentation: "Introduction to ARGs" by Emilia Huerta-Sanchez
 * Reading: Hein, Schierup and Wiuf (2005) Gene Genealogies: Variation and Evolution. Chapter 5. Oxford University Press.
