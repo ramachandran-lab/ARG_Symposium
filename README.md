@@ -1,6 +1,6 @@
 # ARG_Symposium
 ### Draft Schedule Below. Please check for updates!
-#### Sessions will run from 1-4 each day with food and snacks provided
+#### Sessions will run from 1-4 each day with food provided
 #### Please complete readings in advance of each session
 #### Please bring a laptop with OSCAR access if possible
 
@@ -17,7 +17,8 @@
 * Reading: Hubisz, Williams and Siepal (2019) Mapping gene flow between ancient hominins through demography-aware inference of the ancestral recombination graph. bioRxiv
 
 ### Monday, Jan 13th: Relate
-#### Presentation: TBD by Sohini Ramachandran
+#### Presentation: TBD by Sohini Ramachandran 
+#### PRESENTATION STARTING AT 2:30pm, Workshop time 1-2:30
 * Reading: Speidel, Forest, Shi and Meyers (2019) A method for genome-wide genealogy estimation for thousands of samples. Nature Genetics
 
 ### Tuesday, Jan 14th: tsinfer
